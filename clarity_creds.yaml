@@ -1,0 +1,6 @@
+server: clarityprod
+user:
+password:
+database: clarity_snapshot_db
+charset: utf8
+port: 1433
