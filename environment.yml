@@ -1,0 +1,26 @@
+name:
+    - predhealth
+channels:
+    - conda-forge
+dependencies:
+    - python=3.7.7
+    - altair=4.1.0
+    - freetds
+    - ipykernel=5.2.1
+    - jupyterlab=2.1.1
+    - libpq
+    - matplotlib=3.2.1
+    - nb_conda_kernels
+    - numpy=1.18.4
+    - pandas=1.0.3
+    - psycopg2=2.8.5
+    - pymongo=3.10.1
+    - pymssql=2.1.4
+    - pyyaml
+    - pyzmq=19.0.1
+    - scipy=1.4.1
+    - scikit-learn=0.23.0
+    - tornado=6.0.4
+    - vega
+    - vega_datasets
+    - wheel=0.34.2
